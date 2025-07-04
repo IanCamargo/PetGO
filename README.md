@@ -4,10 +4,6 @@
 
 PetGO é uma aplicação web full-stack completa que simula uma plataforma de marketplace para serviços de pets. O projeto conecta donos de pets a uma variedade de prestadores de serviços, como passeadores, hotéis, cuidadores (pet sitters) e veterinários. A aplicação foi construída com foco em uma arquitetura MVC (Model-View-Controller) e renderização no lado do servidor com EJS.
 
-![Screenshot da Aplicação](![image](https://github.com/user-attachments/assets/ebbe6ce9-ab06-4034-b471-2e3e26521d8e)
-)
-*(Sugestão: Tire um print da sua tela inicial e substitua o link acima)*
-
 ## ✨ Funcionalidades Principais
 
 O projeto possui um conjunto robusto de funcionalidades para três tipos de usuários: Clientes, Parceiros e Administradores.
